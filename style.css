@@ -1,0 +1,67 @@
+h1 {
+    color: black;
+    text-align: left;
+}
+
+p1 {
+   line-break: strict;
+}
+
+p2 {
+    line-break: normal;
+ }
+
+p3 {
+    line-break: strict;
+ }
+
+ p4 {
+    line-break: loose;
+ }
+
+ p5 {
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 2vh;
+ }
+
+ p6 {
+     margin-left: 2cm;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 3vh;
+     line-break: strict;
+ }
+
+ p7 {
+    margin-left: 2cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vh;
+    line-break: strict;
+}
+
+p8 {
+    margin-left: 2cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3vh;
+    line-break: strict;
+}
+
+p9 {
+    margin-left: 2cm;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vh;
+    line-break: strict;
+}
+
+p10 {
+   margin-left: 2cm;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 3vh;
+   line-break: strict;
+}
+
+p11 {
+   margin-left: 2cm;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 2vh;
+   line-break: strict;
+}
